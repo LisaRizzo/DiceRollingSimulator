@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\bin\Debug\Dice Rolling Simulator.exe.config
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\bin\Debug\Dice Rolling Simulator.exe
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\bin\Debug\Dice Rolling Simulator.pdb
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\obj\Debug\Dice Rolling Simulator.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\obj\Debug\Dice Rolling Simulator.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\obj\Debug\Dice Rolling Simulator.exe
+C:\Users\lisaa\source\repos\Dice Rolling Simulator\Dice Rolling Simulator\obj\Debug\Dice Rolling Simulator.pdb
